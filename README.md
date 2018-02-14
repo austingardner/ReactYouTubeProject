@@ -24,7 +24,7 @@ which is more consistently supported by browsers.
 
 Webpack allows you to have a nice bundle of libraries that you can grab from. 
 
-These things aren't the extend of my learning about React, but are some of the basics I have learned. 
+These things aren't the extent of my learning about React, but are some of the basics I have learned. 
 
 ![afterownquery](https://user-images.githubusercontent.com/25092249/35298542-bec8c4da-003f-11e8-9ff1-2f59fd3c6002.png)
 
